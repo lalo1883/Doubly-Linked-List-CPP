@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 241.13688.39\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 241.13688.39/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\MSI Sword\Cursos\DSA\DLL" -B "C:\Users\MSI Sword\Cursos\DSA\DLL\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/MSI Sword/Cursos/DSA/DLL/cmake-build-debug
